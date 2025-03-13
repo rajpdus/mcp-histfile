@@ -55,7 +55,6 @@ venv.bak/
 
 # IDE specific files
 .idea/
-.vscode/
 *.swp
 *.swo
 .cursor/
@@ -63,3 +62,6 @@ venv.bak/
 # OS specific files
 .DS_Store
 Thumbs.db 
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
