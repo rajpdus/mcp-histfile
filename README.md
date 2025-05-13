@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/rajpdus-mcp-histfile-badge.png)](https://mseep.ai/app/rajpdus-mcp-histfile)
+
 # MCP Command History
 
 A powerful tool for exploring, searching, and managing your shell command history through the MCP (Model Control Protocol) interface. This project allows you to easily access, search, and retrieve your previously executed shell commands.
